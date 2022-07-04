@@ -1,0 +1,9 @@
+INSERT INTO cliente_habilidade (id,cliente_id,habilidade_id) VALUES (66,6,5);
+INSERT INTO cliente_habilidade (id,cliente_id,habilidade_id) VALUES (67,6,7);
+INSERT INTO cliente_habilidade (id,cliente_id,habilidade_id) VALUES (71,40,3);
+INSERT INTO cliente_habilidade (id,cliente_id,habilidade_id) VALUES (72,3,1);
+INSERT INTO cliente_habilidade (id,cliente_id,habilidade_id) VALUES (73,3,3);
+INSERT INTO cliente_habilidade (id,cliente_id,habilidade_id) VALUES (77,4,1);
+INSERT INTO cliente_habilidade (id,cliente_id,habilidade_id) VALUES (78,4,2);
+INSERT INTO cliente_habilidade (id,cliente_id,habilidade_id) VALUES (79,4,7);
+INSERT INTO cliente_habilidade (id,cliente_id,habilidade_id) VALUES (80,2,3);

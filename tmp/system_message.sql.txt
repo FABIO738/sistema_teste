@@ -1,0 +1,4 @@
+INSERT INTO system_message (id,system_user_id,system_user_to_id,subject,message,dt_message,checked) VALUES (1,1,2,'hint 1','Hint from Administrator.','2019-09-21 14:30:33','N');
+INSERT INTO system_message (id,system_user_id,system_user_to_id,subject,message,dt_message,checked) VALUES (2,1,2,'Hint 2','Hint from Administrator.','2019-09-21 14:30:40','N');
+INSERT INTO system_message (id,system_user_id,system_user_to_id,subject,message,dt_message,checked) VALUES (3,2,1,'Requirement 1','Requirement from user','2019-09-21 14:31:01','Y');
+INSERT INTO system_message (id,system_user_id,system_user_to_id,subject,message,dt_message,checked) VALUES (4,2,1,'Requirement 2','Requirement from user','2019-09-21 14:31:10','Y');

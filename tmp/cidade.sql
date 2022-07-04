@@ -1,0 +1,13 @@
+INSERT INTO cidade (id,nome,estado_id) VALUES (1,'Lajeado',1);
+INSERT INTO cidade (id,nome,estado_id) VALUES (2,'Porto Alegre',1);
+INSERT INTO cidade (id,nome,estado_id) VALUES (3,'Caxias do Sul',1);
+INSERT INTO cidade (id,nome,estado_id) VALUES (4,'São Paulo',2);
+INSERT INTO cidade (id,nome,estado_id) VALUES (5,'Osasco',2);
+INSERT INTO cidade (id,nome,estado_id) VALUES (6,'Rondon�polis',3);
+INSERT INTO cidade (id,nome,estado_id) VALUES (7,'Rondonopolis',3);
+INSERT INTO cidade (id,nome,estado_id) VALUES (9,'Teste',1);
+INSERT INTO cidade (id,nome,estado_id) VALUES (11,'Teste',1);
+INSERT INTO cidade (id,nome,estado_id) VALUES (12,'Teste 2',1);
+INSERT INTO cidade (id,nome,estado_id) VALUES (13,'teste',1);
+INSERT INTO cidade (id,nome,estado_id) VALUES (16,'LAJEADO',1);
+INSERT INTO cidade (id,nome,estado_id) VALUES (17,'SÃO PAULO2',2);
